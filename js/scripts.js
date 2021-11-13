@@ -38,7 +38,7 @@ const _elements = {
 
 	scrollLinks: document.querySelectorAll(".navbar__link, .footer-list__link"),
 	navbarList: document.querySelector(".navbar-list"),
-	toggle: document.querySelector(".nav-header__toggle"),
+	toggle: document.querySelector(".navbar-header__toggle"),
 
 	galleryItems: document.querySelectorAll(".galeria-item"),
 	sliderThumbsImage: document.querySelectorAll(".slider-thumbs__img"),
